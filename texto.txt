@@ -1,36 +1,26 @@
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░░░░░░░░████████░░░░░░░░░░░░░
-░░░░░░██████████░░░░░░░░░░░░░
-░░░░░███████░░░░░░░░░░░░░░░░░
-░░░░██████░░░░░░░░░░░░░░░░░░░
-░░░██████░░░░░░░░░░░░░░░░░░░░
-░░░█████░░░░░░░░░░░░░░░░░░░░░
-░░██████░░░░░░░█████████████░
-░░██████░░░░░░░█████████████░
-░░██████░░░░░░░█████████████░
-░░░██████░░░░░░░░░░░░░██████░
-░░░███████░░░░░░░░░░░░██████░
-░░░░███████░░░░░░░░░░░██████░
-░░░░░███████████░░░░░░██████░
-░░░░░░██████████░░░░░░░░░░░░░
-░░░░░░░░████████░░░░░░░░░░░░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+This API has the following functions.
 
 
-Solo se podra compartir este repocitorio de GitHub a gente que sea de confianza para que el anonimato sea completo y se obtenga una comunidad estable.
+* Fix some stability and performance errors.
+* Immediate auto response in less than 150ms.
+* Control it through your console with intuitive graphical interface.
+* Easy to use and understand.
+* Custom support. 
 
-Usted al abrir el link accepta esto, caso contrario de no respetar esta unica regla sera removido de los medios por el cual usted resibio este link - archivo
-y sera catalogado como Gente de mala reputacion. 
 
-# El no leer esta regla no te exonerará.
+         Options of auto response.
+
+
+Send and receive messages in less than 150ms real.
+Text and multimedia messages (photos, videos, audios).
+Custom messages up to 700 characters.
+Cooldown waiting time
 
 
 
-
-
-
-
-
-
-
-Cheats basicos (Gratis)
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+                                                                                    | 
+Soon we will have more, contact me at discord to add suggestions: _FakeMan_#1453    |
+                                                                                    |
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
